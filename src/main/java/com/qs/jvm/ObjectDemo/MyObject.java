@@ -10,7 +10,6 @@ public class MyObject {
 
     public static void main(String[] args) {
 
-        num = 100;
 
         System.out.println(num);
     }
