@@ -9,7 +9,7 @@ public class MyObject {
     }
 
     public static void main(String[] args) {
-
+        int a = 12;
         num = 120;
         System.out.println(num);
     }
